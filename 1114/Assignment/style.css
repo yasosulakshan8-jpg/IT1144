@@ -1,0 +1,58 @@
+.root{
+	--color-bg:#ffffff;
+	--color-text:#000000;
+	-color-accent:;
+	--font-main:;
+	--spacing-unit:8px;
+}
+body{
+	background-color:#1a3c8f;
+	
+	
+}
+
+.h3{
+	color:white;
+	display:inline-block;
+	text-align:center;
+}
+
+ul{
+	list-style:none;
+	padding:0;
+	margin:o;
+	
+}     
+
+a{
+	text-decoration:none;
+}
+
+header{
+	background-color:black;
+}
+button{
+	text-align:right;
+	background-color:black;
+	color:white;
+	justify-content:space-between;
+	align-items:center;
+	
+}
+.button-contaoiner{
+	text-align:center;
+	margin:20px;
+}
+.button1{
+	display:inline-block;
+	background-color:#c8401a;
+	color:white;
+	padding:18px 10px;
+	text-decoration:none;
+}
+p {font-weight:bold;
+ color:white;
+}
+h5{
+	color:white;
+}
